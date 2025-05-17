@@ -1,1 +1,1 @@
-# RecursiveFolderViewer
+RecursiveFolderViewer demonstrates a recursive data structure by simulating a file system with folders and files. Each folder can contain files and other subfolders, allowing infinite nesting. This structure is ideal for showcasing tree traversal, recursion, and real-world examples of composite objects.
